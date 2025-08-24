@@ -1,2 +1,2 @@
-# bbn
-Live broadcast render for livestreaming
+# BBN
+Fake TV channel written in code.
